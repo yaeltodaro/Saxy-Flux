@@ -2188,6 +2188,11 @@ COLOR GREEN
     border-color: #74a632;
 }
 
+    .integrantesTitle {
+        font-family: 'Cookie', cursive;
+        font-size: 163px!important;
+    }
+}
 
 /******************************************
 RESPONSIVE
@@ -2253,6 +2258,10 @@ RESPONSIVE
     }
     .youtubelogo {
         width: 90%;
+    }
+    .integrantesTitle {
+        font-family: 'Cookie', cursive;
+        font-size: 63px!important;
     }
 }
 
