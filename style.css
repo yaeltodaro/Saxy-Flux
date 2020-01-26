@@ -2175,17 +2175,17 @@ COLOR GREEN
 }
 
 .btn-default {
-    border-color: #82b440;
-    background-color: #82b440;
-    box-shadow: inset 0 0 0 0 #74a632;
+    border-color: #25d366;
+    background-color: #25d366;
+    box-shadow: inset 0 0 0 0 #25d366;
     -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
 }
 
 .btn-default:hover {
-    box-shadow: inset 0 100px 0 0 #74a632;
-    border-color: #74a632;
+    box-shadow: inset 0 100px 0 0 #25d366;
+    border-color: #25d366;
 }
 
     .integrantesTitle {
