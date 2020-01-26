@@ -2234,7 +2234,7 @@ RESPONSIVE
         padding: 30px 10px;
     }
     .home-message p {
-        font-size: 28px;
+        font-size: 68px;
     }
     .topbar .text-left {
         text-align: center;
@@ -2250,6 +2250,9 @@ RESPONSIVE
         float: none;
         margin: 0 0 30px;
         padding-right: 10px;
+    }
+    .youtubelogo {
+        width: 90%;
     }
 }
 
