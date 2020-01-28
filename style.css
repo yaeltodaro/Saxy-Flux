@@ -1002,6 +1002,7 @@ SECTIONS
 
 .section.gb {
     background-color: #f6f6f6;
+    padding-bottom: 0px;
 }
 
 .section.db {
